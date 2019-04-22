@@ -21,7 +21,9 @@ For this problem, I applied AdaBoost, Random Forest and SVM.
 After evaluating every model, I selected AdaBoost which provided an accuracy of 84% because even though AdaBoost Classifier takes slighty more time to train as compared to Random Forest, the difference is trivial. But it overtakes Random Forest and SVC when it comes to Accuracy and F-score. 
 So AdaBoost Classifier is the most appropriate model for this data.
 
-Results communicated the driving features are age, #working hours, capital gain, marital status, and education       
+Results communicated the driving features are age, #working hours, capital gain, marital status, and education   
+
+GitHub is having some issue opening .ipynb files. Kindly open https://nbviewer.jupyter.org in your browser and paste my github link. Now, you should be able to view the .ipynb file. Thank you.
 
 Enjoy reading. Happy learning! :)
 
